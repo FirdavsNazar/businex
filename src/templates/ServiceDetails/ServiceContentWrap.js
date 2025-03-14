@@ -36,7 +36,8 @@ const ServiceContentWrap = ({service,totalService,prevService,nextService}) => {
                         {
                             <div dangerouslySetInnerHTML={{__html: service.aboutServiceDesc}}/>
                         }
-                        <List classes="service-feature mt-30">
+                        {/* classes="service-feature mt-30"   -> correct sign is deleted from list */}   
+                        <List>     
                             {
                                 service.features.map((feature,indx)=>(
                                     <LI key={indx}>{feature}</LI>
