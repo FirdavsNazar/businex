@@ -8,7 +8,7 @@ const BlogContent = (props) => {
     const [state, setState] = useState({
         posts: BlogData.reverse(),
         currentPage: 1,
-        postsPerPage: 8
+        postsPerPage: 4
     });
 
     // Get current posts
