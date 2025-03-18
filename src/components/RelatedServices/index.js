@@ -11,8 +11,8 @@ const RelatedServices = () => {
                 <div className="row">
                     <div className="col-lg-7 m-auto text-center">
                         <SectionTitle
-                            title="More Services"
-                            heading="Related Services"
+                            title="CK TOOL PRODUCT"
+                            heading="MORE PRODUCTS"
                         />
                     </div>
                 </div>
