@@ -9,17 +9,6 @@ function BlogItem(props) {
                 {
                     props.thumb ? (
                         <figure className="blog-thumb">
-
-                        {/* new one, catalogue added
-{props.id >= 8 && props.id <= 17 && props.catalogueLink ? (
-  <a href={props.catalogueLink} target="_blank" rel="noopener noreferrer">
-    <img src={require('../../assets/img/' + props.thumb)} alt={props.title} />
-  </a>
-) : (
-  <Link to={`${process.env.PUBLIC_URL + blogURL}`}>
-    <img src={require('../../assets/img/' + props.thumb)} alt={props.title} />
-  </Link>
-)} */}
                                 {/* old one */}
                             <Link to={`${process.env.PUBLIC_URL + blogURL}`}>
                                 <img src={require('../../assets/img/' + props.thumb)} alt={props.title} />
