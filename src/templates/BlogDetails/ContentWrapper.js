@@ -17,7 +17,27 @@ const BlogDetailsContentWrapper = ({post,sidebar}) => {
                                         <img src={require('../../assets/img/' + post.author.proPic)} alt={post.author.name} />
                                     </div>
                                     <div className="author-txt">
-                                        <h5>{post.author.name} <span className="designation">{post.author.designation}</span></h5>
+                                        {/* old one */}
+                                        {/* <h5>{post.author.name} <span className="designation">{post.author.designation}</span></h5>   */}
+
+                                        <h5>
+                                            {post.catalogueLink ? (
+                                                <a 
+                                                    href={post.catalogueLink} 
+                                                    target="_blank" 
+                                                    rel="noopener noreferrer"
+                                                    style={{
+                                                        color: '#000', // Change color to black (or any color you prefer)
+                                                        textDecoration: 'none', // Remove underline
+                                                        fontWeight: 'normal', // Make it regular font-weight
+                                                        cursor: 'pointer', // Ensure it still shows as clickable
+                                                    }}
+                                                >
+                                                    <i /> CATALOGUE
+                                                </a>
+                                            ) : null} {/* If no catalogueLink, render nothing */}
+                                        </h5>
+
 
                                         {/* <div className="member-social-icons">
                                         <a href={`https://www.youtube.com/channel/UCH33OWbEUtKcmlvWeEsaPxg`} target="_blank" rel="noopener noreferrer"><i className="fa fa-youtube" /></a>
