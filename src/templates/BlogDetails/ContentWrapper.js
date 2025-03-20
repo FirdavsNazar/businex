@@ -27,13 +27,13 @@ const BlogDetailsContentWrapper = ({post,sidebar}) => {
                                                     target="_blank" 
                                                     rel="noopener noreferrer"
                                                     style={{
-                                                        color: '#000', // Change color to black (or any color you prefer)
+                                                        color: 'green', // Change color to black (or any color you prefer)
                                                         textDecoration: 'none', // Remove underline
                                                         fontWeight: 'normal', // Make it regular font-weight
                                                         cursor: 'pointer', // Ensure it still shows as clickable
                                                     }}
                                                 >
-                                                    <i /> CATALOGUE
+                                                    <i /> Click the CATALOGUE
                                                 </a>
                                             ) : null} {/* If no catalogueLink, render nothing */}
                                         </h5>
