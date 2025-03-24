@@ -62,8 +62,8 @@ const BlogDetailsContentWrapper = ({post,sidebar}) => {
                             <div dangerouslySetInnerHTML={{__html: post.content}} />
                         </div>
 
-                        <div className="share-article text-center">
-                            <h6>Share this article</h6>
+                            <div className="share-article text-center" style={{ opacity: 0.4 }}>
+                                        <h6>Share this article</h6>
                             <div className="member-social-icons justify-content-center">
                             <a className="pinterest" href="https://www.youtube.com/channel/UCH33OWbEUtKcmlvWeEsaPxg" 
                                   target="_blank" 
