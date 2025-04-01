@@ -20,7 +20,7 @@
     "shortDesc": "Series For High Performance Machining",
     "thumb": "service/2ompx.png",
     "previewImages": [
-      "service/details/ompx/02_ompx_kr.png",
+      "service/details/ompx/02_ompx_kr.jpg",
       "service/details/ompx/01_ompx_en.png",
       "service/details/ompx/ompx_01.jpg",
       "service/details/ompx/ompx_02.jpg"
@@ -127,7 +127,9 @@
     "shortDesc": "Coming soon",
     "thumb": "service/8 odp.png",
     "previewImages": [
-      "service/details/omt/omt_01.jpg"
+      "service/details/omt/omt_kr_1.jpg",
+      "service/details/omt/omt_en_2.jpg",
+      "service/details/omt/omt_03.jpg"
     ],
     "features": [
    

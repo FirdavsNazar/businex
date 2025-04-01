@@ -31,8 +31,19 @@
   {
     "id": 5,
     "title": "Tech News",
-     "link": "/blog-grid-left-sidebar",
-    "megaMenu": false
+     "link": "/blog-grid-without-sidebar",
+    "megaMenu": false,
+    "subMenu": [
+      {
+        "title": "New Items",
+        "link": "/blog-grid-without-sidebar"
+      },
+      {
+        
+        "title": "CKTOOL News",
+        "link": "/blog-grid-left-sidebar"
+      }
+    ]
   },
   {
     "id": 6,

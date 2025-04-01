@@ -1,26 +1,66 @@
 [
   {
     "id": 1,
-    "name": "Lucy Farnando",
-    "designation": "CEO & Founder",
-    "profilePic": "team/h-2-01.png"
+    "name": "High efficiency small diameter drill and deep hole drill series",
+    "profilePic": "team/h-2-01.png",
+    "catalogueLink": "https://drive.google.com/file/d/1R2Lh6HZKxr6e4Z-xavrbU2kGXcdNpR2P/view?usp=drive_link"
   },
   {
     "id": 2,
-    "name": "James Anderson",
-    "designation": "HR & Admin",
-    "profilePic": "team/h-2-02.png"
+    "name": "HML series high feed milling tool",
+    "profilePic": "team/h-2-02.png",
+    "catalogueLink": "https://drive.google.com/file/d/1R2Lh6HZKxr6e4Z-xavrbU2kGXcdNpR2P/view?usp=drive_link"
   },
   {
     "id": 3,
-    "name": "Thomas Nancy",
-    "designation": "Software Engineer",
-    "profilePic": "team/h-2-03.png"
+    "name": "Indexable cutting tools for gear machining",
+    "profilePic": "team/h-2-03.png",
+    "catalogueLink": "https://drive.google.com/file/d/1R2Lh6HZKxr6e4Z-xavrbU2kGXcdNpR2P/view?usp=drive_link"
   },
   {
     "id": 4,
-    "name": "Nail Mathue",
-    "designation": "Creative Designer",
-    "profilePic": "team/h-2-04.png"
+    "name": "ISO PCBN turning insert",
+    "profilePic": "team/h-2-04.png",
+    "catalogueLink": "https://drive.google.com/file/d/1R2Lh6HZKxr6e4Z-xavrbU2kGXcdNpR2P/view?usp=drive_link"
+  }
+  ,
+  {
+    "id": 5,
+    "name": "ISO PCD turning insert",
+    "profilePic": "team/h-2-04.png",
+    "catalogueLink": "https://drive.google.com/file/d/1R2Lh6HZKxr6e4Z-xavrbU2kGXcdNpR2P/view?usp=drive_link"
+  }
+  ,
+  {
+    "id": 6,
+    "name": "OH inserts series for high hardness steel turning",
+    "profilePic": "team/h-2-04.png",
+    "catalogueLink": "https://drive.google.com/file/d/1R2Lh6HZKxr6e4Z-xavrbU2kGXcdNpR2P/view?usp=drive_link"
+  },
+  {
+    "id": 7,
+    "name": "ISO PCBN turning insert",
+    "profilePic": "team/h-2-04.png",
+    "catalogueLink": "https://drive.google.com/file/d/1R2Lh6HZKxr6e4Z-xavrbU2kGXcdNpR2P/view?usp=drive_link"
+  }
+  ,
+  {
+    "id": 8,
+    "name": "ISO PCD turning insert",
+    "profilePic": "team/h-2-04.png",
+    "catalogueLink": "https://drive.google.com/file/d/1R2Lh6HZKxr6e4Z-xavrbU2kGXcdNpR2P/view?usp=drive_link"
+  }
+  ,
+  {
+    "id": 9,
+    "name": "OH inserts series for high hardness steel turning",
+    "profilePic": "team/h-2-04.png",
+    "catalogueLink": "https://drive.google.com/file/d/1R2Lh6HZKxr6e4Z-xavrbU2kGXcdNpR2P/view?usp=drive_link"
+  },
+  {
+    "id": 9,
+    "name": "OH inserts series for high hardness steel turning",
+    "profilePic": "team/h-2-04.png",
+    "catalogueLink": "https://drive.google.com/file/d/1R2Lh6HZKxr6e4Z-xavrbU2kGXcdNpR2P/view?usp=drive_link"
   }
 ]

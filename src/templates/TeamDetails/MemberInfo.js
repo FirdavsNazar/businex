@@ -1,6 +1,6 @@
 import React from 'react';
 const MemberInfo = ({teamMember}) => {
-    const {profilePic,name,designation,bio,socials,address,phone,email,website} = teamMember;
+    const {profilePic,name,designation,bio,socials,catalogueLink,phone,email,website} = teamMember;
     return (
         <div className="member-details-top">
             <div className="row">
@@ -15,21 +15,39 @@ const MemberInfo = ({teamMember}) => {
                         <h2>{name}</h2>
                         <h5>{designation}</h5>
                         <p dangerouslySetInnerHTML={{__html: bio}}/>
-
+                        <h5>{designation}</h5>
+                        <br/>
+                        <br/>
+                        
+                       
+                     
                         <div className="member-social-icons mt-25">
-                            <a href={`https://facebook.com/${socials.facebook}`} target="_blank" rel="noopener noreferrer" className="facebook"><i className="fa fa-facebook"/></a>
+                            {/* <a href={`https://facebook.com/${socials.facebook}`} target="_blank" rel="noopener noreferrer" className="facebook"><i className="fa fa-facebook"/></a>
                             <a href={`https://twitter.com/${socials.twitter}`} target="_blank" rel="noopener noreferrer" className="twitter"><i className="fa fa-twitter"/></a>
                             <a href={`https://linkedin.com/in/${socials.linkedin}`} target="_blank" rel="noopener noreferrer" className="linkedin"><i className="fa fa-linkedin"/></a>
-                            <a href={`https://reddit.com/${socials.reddit}`} target="_blank" rel="noopener noreferrer" className="reddit"><i className="fa fa-reddit"/></a>
-                            <a href={`https://pinterest.com/${socials.pinterest}`} target="_blank" rel="noopener noreferrer" className="pinterest"><i className="fa fa-pinterest"/></a>
+                            <a href={`https://reddit.com/${socials.reddit}`} target="_blank" rel="noopener noreferrer" className="reddit"><i className="fa fa-reddit"/></a> */}
+                            {/* <a href={`https://pinterest.com/${socials.pinterest}`} target="_blank" rel="noopener noreferrer" className="pinterest"><i className="fa fa-pinterest"/></a> */}
                         </div>
+                                               <a 
+                                                    href={catalogueLink} 
+                                                    target="_blank" 
+                                                    rel="noopener noreferrer"
+                                                    style={{
+                                                        color: 'green', // Change color to black (or any color you prefer)
+                                                        textDecoration: 'none', // Remove underline
+                                                        fontWeight: 'normal', // Make it regular font-weight
+                                                        cursor: 'pointer', // Ensure it still shows as clickable
+                                                    }}
+                                                >
+                                                    <i /> Click the CATALOGUE
+                                                </a> 
 
-                        <div className="contact-info mt-25">
+                        {/* <div className="contact-info mt-25">
                             <p><strong>Address</strong> <span dangerouslySetInnerHTML={{__html: address}}/></p>
                             <p><strong>Phone</strong> {phone}</p>
                             <p><strong>Email</strong> {email}</p>
                             <p><strong>Web</strong> {website}</p>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </div>
