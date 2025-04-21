@@ -28,19 +28,27 @@ const MemberInfo = ({teamMember}) => {
                             <a href={`https://reddit.com/${socials.reddit}`} target="_blank" rel="noopener noreferrer" className="reddit"><i className="fa fa-reddit"/></a> */}
                             {/* <a href={`https://pinterest.com/${socials.pinterest}`} target="_blank" rel="noopener noreferrer" className="pinterest"><i className="fa fa-pinterest"/></a> */}
                         </div>
-                                               <a 
-                                                    href={catalogueLink} 
-                                                    target="_blank" 
-                                                    rel="noopener noreferrer"
-                                                    style={{
-                                                        color: 'green', // Change color to black (or any color you prefer)
-                                                        textDecoration: 'none', // Remove underline
-                                                        fontWeight: 'normal', // Make it regular font-weight
-                                                        cursor: 'pointer', // Ensure it still shows as clickable
-                                                    }}
-                                                >
-                                                    <i /> Click the CATALOGUE
-                                                </a> 
+                             <a 
+                                   href={catalogueLink} 
+                                   target="_blank" 
+                                   rel="noopener noreferrer"
+                                   style={{
+                                     display: 'flex',
+                                     alignItems: 'center',
+                                     gap: '8px',
+                                     color: '#d32f2f', // Red PDF-style color
+                                     fontSize: '18px',
+                                     fontWeight: 'bold',
+                                     textDecoration: 'none',
+                                     cursor: 'pointer',
+                                   }}
+                                 >
+                                   <i className="fas fa-file-pdf"></i>
+                                   Catalogue
+                             </a>
+
+
+
 
                         {/* <div className="contact-info mt-25">
                             <p><strong>Address</strong> <span dangerouslySetInnerHTML={{__html: address}}/></p>

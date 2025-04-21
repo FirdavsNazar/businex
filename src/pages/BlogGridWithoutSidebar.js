@@ -19,10 +19,10 @@ const PageBlogGrid = () => {
                 //     PRODUCTS
                 //     </span>
                 //   }
-            />  <br></br> <br></br>
+            />  <br/>
             {/* <BlogPage blog_type={'grid'} sidebar={false} sidebar_position={'left'}/> */}
             <Team/>
-            <br></br> <br></br> <br></br>
+            <br/><br/><br/>
             {/* <CallToAction/> */}
             <Footer/>
             {/* <LoginRegister/> */}
