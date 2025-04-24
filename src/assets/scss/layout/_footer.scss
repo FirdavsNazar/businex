@@ -1,6 +1,11 @@
 /*===========================
 --. Footer Style CSS
 ===========================*/
+.footer-area {
+  background-color: $offWhite;
+  padding-bottom: 0; /* or a small value like 10px */
+  margin-bottom: 10px;
+}
 .footer-area,.call-top-action-wrap {
   background-color: $offWhite;
 }
@@ -17,7 +22,7 @@
     margin-bottom: 22px;
 
     @media #{$sm-device} {
-      margin-bottom: 15px;
+      margin-bottom: 1px;
     }
   }
 

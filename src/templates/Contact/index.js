@@ -2,6 +2,7 @@ import React from 'react';
 import From from "./From";
 import ContactInfo from "./ContactInfo";
 
+
 const ContactPage = () => {
     return (
         <div className={'contact-page-area-wrapper sp-y'}>
