@@ -1,22 +1,22 @@
 [
   {
     "id": 1,
-    "quote": "Automobile Manufacturing Industry",
-    "authorThumb": "testimonial/01.png"
+    "quote": " Expert-Led Curriculum ",
+    "authorThumb": "testimonial/1.jpg"
   },
   {
     "id": 2,
-    "quote": "Mold Manufacturing Industry ",
-    "authorThumb": "testimonial/02.png"
+    "quote": "Supportive Environment ",
+    "authorThumb": "testimonial/2.jpg"
   },
   {
     "id": 3,
-    "quote": "Rail Transit",
-    "authorThumb": "testimonial/03.png"
+    "quote": "Performance-Driven Training",
+    "authorThumb": "testimonial/3.jpg"
   },
   {
     "id": 4,
-    "quote": "Aerospace",
-    "authorThumb": "testimonial/04.png"
+    "quote": "Goal-Oriented Results",
+    "authorThumb": "testimonial/4.jpg"
   }
 ]

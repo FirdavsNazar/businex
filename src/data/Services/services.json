@@ -1,138 +1,164 @@
 [
   {
     "id": 1,
-    "title": "OMPQ" ,
-    "shortDesc": "Series For General Machining",
-    "thumb": "service/1ompq.png",
+    "title": "한국어 1A (Boshlang‘ich daraja)" ,
+    "shortDesc": "O'qish muddati:  6 hafta",
+    "thumb": "service/1a.jpg",
     "previewImages": [
       "service/details/ompq/02_ompq_kr.png",
-      "service/details/ompq/01_ompq_en.png",
-      "service/details/ompq/ompq_01.jpg",
-      "service/details/ompq/ompq_02.jpg"
+      "service/details/ompq/02_ompq_kr.png"
+
     ],
+    "aboutServiceDesc": "<p>   </p>",
     "features": [
-    
+      " - Salomlashish, o‘zini tanishtirish, sonlar va oddiy kundalik iboralarni o‘rganish ",
+      " - Koreys alifbosi — Hangilni o‘qish va yozishni mashq qilish "
     ]
   },
   {
     "id": 2,
-    "title": "OMPX",
-    "shortDesc": "Series For High Performance Machining",
-    "thumb": "service/2ompx.png",
+    "title": "한국어 1B  (Boshlang‘ich yuqori daraja)",
+    "shortDesc": "O'qish muddati:  6 hafta",
+    "thumb": "service/1b.jpg",
     "previewImages": [
       "service/details/ompx/02_ompx_kr.jpg",
-      "service/details/ompx/01_ompx_en.png",
-      "service/details/ompx/ompx_01.jpg",
-      "service/details/ompx/ompx_02.jpg"
+      "service/details/ompx/01_ompx_en.png"
     ],
+   "aboutServiceDesc": "<p>   </p>",
     "features": [
-     
+      " - Kunlik hayot, sevimli mashg‘ulotlar, vaqt va ovqat haqida gapirish ",
+      " - Qisqa gaplar va sodda suhbatlarni tushunish "
     ]
   },
   {
     "id": 3,
-    "title": "OMH",
-    "shortDesc": " Series For Quenched Steel Machining",
-    "thumb": "service/3omh.png",
+    "title": "한국어 2A (O‘rta boshlang‘ich daraja)",
+    "shortDesc": "O'qish muddati:  6 hafta",
+    "thumb": "service/2a.jpg",
     "previewImages": [
       "service/details/omh/02_omh_kr.png",
       "service/details/omh/01_omh_en.png",
       "service/details/omh/omh_01.jpg",
       "service/details/omh/omh_02.jpg"
     ],
+   "aboutServiceDesc": "<p>   </p>",
     "features": [
-    
+      " - Fikr bildirish, yordam so‘rash va o‘z tajribalari haqida so‘zlash ",
+      " - Grammatika va so‘z boyligini kengaytirish "
     ]
   },
   {
     "id": 4,
-    "title": "OMHH",
-    "shortDesc": "Series For High Hardened Steel Machining",
-    "thumb": "service/4omhh.png", 
+    "title": "한국어 2B  (O‘rta daraja)",
+    "shortDesc": "O'qish muddati:  6 hafta",
+    "thumb": "service/2b.jpg", 
     "previewImages": [
       "service/details/omhh/02_omhh_kr.png",
       "service/details/omhh/01_omhh_en.png",
       "service/details/omhh/omhh_01.jpg",
       "service/details/omhh/omhh_02.jpg"
     ],
+    "aboutServiceDesc": "<p>   </p>",
     "features": [
-
+      " - Ijtimoiy holatlar va oddiy ish yoki o‘quv mavzularini muhokama qilish ",
+      " - Kattaroq matnlarni tushunish va qisqa suhbatlar olib borish "
     ]
   },
   
   {
     "id": 5,
-    "title": "OMS",
-    "shortDesc": "Series For High Temperature Alloy",
-    "thumb": "service/5oms.png",
+    "title": "TOPIK I",
+    "shortDesc": " O'qish muddati:  2 oy",
+    "thumb": "service/topic5.jpg",
     "previewImages": [
       "service/details/oms/02_oms_kr.png",
       "service/details/oms/01_oms_en.png",
       "service/details/oms/oms_01.jpg",
       "service/details/oms/oms_02.jpg"
     ],
+   "aboutServiceDesc": "<p>   </p>",
     "features": [
-     
+      " - TOPIK I imtihoni Koreys tilini boshlang‘ich darajada biluvchilar uchun mo‘ljallangan. ",
+      " - O‘qish va tinglab tushunish qobiliyatini tekshiradi.",
+      " - Oddiy iboralar, kundalik hayot, do‘stlik, xarid qilish kabi mavzular kiradi.",
+      " - Imtihon muddati: 100 daqiqa, 2 ta bo‘lim – Tinglab tushunish va o‘qish."
+
     ]
   },
   {
     "id": 6,
-    "title": "OMM",
-    "shortDesc": " Series For Stainless Steel Machining",
-    "thumb": "service/6omm.png",
+    "title": "Topic II",
+    "shortDesc": " O'qish muddati:  3 oy",
+    "thumb": "service/topic5.jpg",
     "previewImages": [
       "service/details/omm/02_omm_kr.jpg",
       "service/details/omm/01_omm_en.png",
       "service/details/omm/omm_01.jpg",
       "service/details/omm/omm_02.jpg"
     ],
+    "aboutServiceDesc": "<p>   </p>",
     "features": [
-
+      " - TOPIK II imtihoni 3–6-darajaga mos.",
+      " - Akademik, ish va kundalik mavzularda yozish, o‘qish, tinglash, va ifodalash qobiliyatini sinovdan o‘tkazadi. ",
+      " - Imtihon muddati: 180 daqiqa, 3 bo‘lim – Tinglab tushunish, o‘qish, yozish. ",
+      " - Oliy ta’lim yoki ish bilan bog‘liq talablar uchun muhim. "
     ]
   },
   
   {
     "id": 7,
-    "title": "OMAL",
-    "shortDesc": "Series For Aluminum Machining",
-    "thumb": "service/7 omal.png",
+    "title": "Frontend (Veb interfeys)",
+    "shortDesc": "O'qish muddati:  3 oy",
+    "thumb": "service/backend.jpg",
     "previewImages": [
       "service/details/omal/02_omal_kr.png",
       "service/details/omal/01_omal_en.png",
       "service/details/omal/omal_01.jpg",
       "service/details/omal/omal_02.jpg"
     ],
+    "aboutServiceDesc": "<p>   </p>",
     "features": [
-     
+      " - Vebsaytning foydalanuvchi ko‘radigan qismini ishlab chiqish ",
+      " - Dizayn, tugmalar, animatsiya va sahifalar ko‘rinishi bilan ishlash ",
+      " - Asosiy texnologiyalar: ",
+      "   - HTML – Tuzilishi  ",
+      "   - CSS – Dizayni ",
+      "   - JavaScript – Harakat, funksiyalar ",
+      "   -  React, Vue.js – Ilg‘or kutubxonalar "
     ]
   },
   {
     "id": 8,
-    "title": "ODP",
-    "shortDesc": "Drill Series For High Performance General Machining",
-    "thumb": "service/8 odp.png",
+    "title": "Backend (Server qismi)",
+    "shortDesc": "O'qish muddati:  3 oy",
+    "thumb": "service/backend.jpg",
     "previewImages": [
      "service/details/odb/02_odp_kr.png",
       "service/details/odb/01_odp_en.png",
       "service/details/odb/odp_02.jpg",
       "service/details/odb/odp_03.jpg"
     ],
+   "aboutServiceDesc": "<p>   </p>",
     "features": [
-   
+      " - Vebsaytning ichki ishlari, ma’lumotlarni saqlash va boshqarish bilan shug‘ullanadi ",
+      " - Foydalanuvchi yuborgan ma’lumotlar qanday saqlanishi va ishlov berilishini boshqaradi "
+
     ]
   },
   {
     "id": 9,
-    "title": "OMT",
-    "shortDesc": "Series for high efficiency titanium alloy machining",
-    "thumb": "service/8 odp.png",
+    "title": "Agentlik (Koreada o'qish va ishlash)",
+    "shortDesc": "2026-yil bahorgi semestr uchun qabullar ochilish jarayonida",
+    "thumb": "service/overseas.jpg",
     "previewImages": [
       "service/details/omt/omt_kr_1.jpg",
       "service/details/omt/omt_en_2.jpg",
       "service/details/omt/omt_03.jpg"
     ],
+    "aboutServiceDesc": "<p>   </p>",
     "features": [
-   
+      " - Talabalar va ish izlovchilarga to‘g‘ri yo‘l-yo‘riq ko‘rsatish, hujjatlarni rasmiylashtirishda yordam berish, viza, universitet yoki ish topishda aldovlardan himoya qilish. ",
+      " - Shuningdek, Koreyada ishlashni rejalashtirayotganlar uchun intervyu tayyorgarligi, ish madaniyati, huquqiy mas’uliyat kabi amaliy bilimlar bilan tayyorlash. "
     ]
   }
   

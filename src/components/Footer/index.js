@@ -4,7 +4,7 @@ import Widget from "../UI/Widget";
 import List from "../UI/List";
 import LI from "../UI/List/Item";
 import {Link} from "react-router-dom";
-import Logo from '../../assets/img/02.png';
+import Logo from '../../assets/img/footer4.png';
 import PageBlog from '../../pages/BlogGridLeftSidebar';
 import BlogDetailsPage from '../../templates/BlogDetails';
 
@@ -21,7 +21,7 @@ function Footer() {
                                 </Link>
 
                                 <Text>
-                                &copy; 2024 CKTOOL. All Rights Reserved.
+                                &copy; 2025 LEVELUP. All Rights Reserved.
                                 </Text>
                             </div>
                         </div>
@@ -34,9 +34,9 @@ function Footer() {
                                 <LI><Link to={`${process.env.PUBLIC_URL + "/about"}`}>ABOUT</Link></LI>
                                 <LI><Link to={`${process.env.PUBLIC_URL + "/services"}`}>DIRECTION</Link></LI>
                                 <LI><Link to={`${process.env.PUBLIC_URL + "/team"}`}>PRODUCT</Link></LI>
-                                <LI><Link to={`${process.env.PUBLIC_URL + "blog-grid-left-sidebar"}`}>TECH NEWS</Link></LI>
+                                <LI><Link to={`${process.env.PUBLIC_URL + "blog-grid-left-sidebar"}`}> NEWS</Link></LI>
                                 <LI><Link to={`${process.env.PUBLIC_URL + "/contact"}`}>CONTACT</Link></LI>
-                                <LI><a href="https://drive.google.com/file/d/1wS3HxZgPc20GI8zT32Nt9Li0zWpW_0yw/view?usp=drive_link" target="blank" className="tel-no">CATALOGUE</a></LI>
+                                {/* <LI><a href="https://drive.google.com/file/d/1wS3HxZgPc20GI8zT32Nt9Li0zWpW_0yw/view?usp=drive_link" target="blank" className="tel-no">CATALOGUE</a></LI> */}
                             </List>
                         </Widget>
                     </div>
@@ -45,11 +45,11 @@ function Footer() {
                         <Widget title="Contact">
                             <List classes="widget-list">
                                 <LI> <strong>Email </strong> </LI>
-                                <LI> cktoolcom@gmail.com </LI>
+                                <LI> fredrickuzb55@gmail.com </LI>
                                 <LI> <strong>Number </strong></LI>
-                                <LI> (+82) 031-605-1115 </LI>
+                                <LI> (+82) 1026745444 </LI>
                                 <LI> <strong>Fax </strong></LI>
-                                <LI> (+82) 070-8731-1114</LI>
+                                <LI> (+82) 1026745444</LI>
                             </List>
                         </Widget>
                     </div>
@@ -57,7 +57,7 @@ function Footer() {
                     <div className="col-md-4 col-lg-3">
                         <Widget title="Address">
                             <address>
-                            Megadong 1007-ho, SKN Technopark, Sagimakgol-ro 124, Jungwon-gu, Seongnam-si, Gyeonggi-do, South Korea <br/> <br/>
+                            Sariosiyo Disrict, Uzbekistan <br/> <br/>
                             </address>
                         </Widget>
                     </div>

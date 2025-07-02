@@ -100,6 +100,7 @@
 
   @media #{$sm-device} {
     margin-bottom: 35px;
+    margin-top: 10px;
   }
 
   img {
@@ -130,11 +131,10 @@
   }
 
   .about-content{
-    padding-top: 90px;
-    padding-bottom: 10px;
+    padding-top: 100px;
 
     @media #{$md-device} {
-      padding-top: 50px;
+      padding-top: 5px;
       padding-bottom: 90px;
     }
 

@@ -29,31 +29,19 @@ const PageService = () => {
             />
             <PageAbout
                 title={'DIRECTION'}
-                heading="CK TOOL"
+                heading="LevelUp Academy"
                 thumb={ServiceThumb}
                 content="<a> <strong>Address </strong> </a>   <br/>
-                               <a> Megadong 1007-ho, SKN Technopark, Sagimakgol-ro 124,<br> Jungwon-gu, Seongnam-si, Gyeonggi-do, South Korea </a> <br/>
+                               <a> Sariosiyo district, Surkhandarya region, Uzbekistan </a> <br/>
                                 <a> <strong>Email </strong> </a> <br/>
-                                <a> cktoolcom@gmail.com </a> <br/>
+                                <a> fredrickuzb55@gmail.com </a> <br/>
                                 <a> <strong>Number </strong></a> <br/>
-                                <a> (+82) 031-605-1115 </a>  <br/>
+                                <a> (+82 102674-5444 </a>  <br/>
                                 <a> <strong>Fax </strong></a> <br/>
-                                <a> (+82) 070-8731-1114</a>"
+                                <a> (+82) 102674-5444</a>"
                                 
             />
-            <PageAbout
-                title={'DIRECTION'}
-                heading="CK TOOL Busan branch"
-                thumb={ServiceThumb2}
-                content={`<a><strong>Address</strong></a> <br/>
-                                <a>112-ho, 1-dong, Busan Industrial Supplies Distribution Complex, Gweagam-ro 37, Sasang-gu, Busan , South Korea</a> <br/>
-                                <a><strong>Email</strong></a><br/>
-                                <a>cktoolted@gmail.com</a>  <br/>
-                                <a><strong>Number</strong></a>  <br/>
-                                <a>(+82) 051-319-0981</a>  <br/>
-                                <a><strong>Fax</strong></a>  <br/>
-                                <a>(+82) 051-319-0983</a>`}
-/>
+            
             {/* <Services classes="sm-top"/> */}
             {/* <PricingTable/> */}
             {/* <Testimonial/> */}

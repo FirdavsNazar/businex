@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "title": "CK Open Ceremony",
-    "excerpt": "On August 23rd, CK Tool held an opening ceremony",
-    "thumb": "tech_news/01-01.png",
-    "content": "<p>On August 23rd, CK Tool held an opening ceremony for a new leap forward with OKE headquarters employees and agency presidents in attendance.</p>",
-    "publishDate": "Aug 24, 2024",
+    "title": "Ambassador",
+    "excerpt": "IT Business Ambassador in South Korea ",
+    "thumb": "tech_news/lavozim.png",
+    "content": "<p>As an IT Business Ambassador (IT Park) in South Korea for the Ministry of Digital Technologies, I serve as a bridge between Uzbekistan and Korea to promote collaboration, attract investment, and introduce innovative IT solutions. My role involves supporting international partnerships, sharing best practices, and facilitating business opportunities in the tech sector.  https://raqamlidunyo.itskills.uz/ambassadors</p>",
+    "publishDate": "June 16, 2025",
     "author": {
-      "name": "CKTOOL",
+      "name": "LevelUp",
       "designation": "",
       "proPic": "tech_news/01-01.png",
       "socials": {
@@ -19,13 +19,13 @@
   },
   {
     "id": 2,
-    "title": "CKTOOL Opening",
-    "excerpt": "The CK Tool opening ceremony held on August 23rd.",
-    "thumb": "tech_news/02_cktool.png",
-    "content": "<p>The CK Tool opening ceremony held on August 23rd. </p> <p> https://youtu.be/35sXxbnMz4I</p>",
-    "publishDate": "Feb 02, 2024",
+    "title": "Simtos 2024",
+    "excerpt": "At the SIMTOS exhibition",
+    "thumb": "tech_news/simtos4.jpg",
+    "content": "<p>At the SIMTOS exhibition, we discussed our future collaboration and business expansion plans with our Spain, SUMEC partners, focusing on new market opportunities, technology integration, and strategic cooperation.</p>",
+    "publishDate": "April 02, 2024",
     "author": {
-      "name": "CKTOOL",
+      "name": "LevelUp",
       "designation": "",
       "proPic": "tech_news/01-01.png",
       "socials": {
@@ -37,87 +37,15 @@
   },
   {
     "id": 3,
-    "title": "OKE New Factory Opening Ceremony",
-    "excerpt": "On October 11, OKE headquarters held an opening ceremony ",
-    "thumb": "tech_news/03.png",
-    "content": "<p>On October 11, OKE headquarters held an opening ceremony for the establishment of a new manufacturing plant in China.</p>  <p> https://youtu.be/IJ3yecASAVE</p>",
-    "publishDate": "Feb 03, 2024",
+    "title": "Language Exchange Event",
+    "excerpt": "Uzbek-Korean Language Exchange Event ",
+    "thumb": "tech_news/ozbek.jpg",
+    "content": "<p>We held a special event that brought together Uzbek and Korean communities to share language, traditions, and cultural experiences. Participants enjoyed interactive language sessions, traditional music and dance, cultural presentations, and fun networking activities.</p>",
+    "publishDate": "May 18, 2025",
     "author": {
-      "name": "CKTOOL",
+      "name": "LevelUp",
       "designation": "",
       "proPic": "tech_news/03.png",
-      "socials": {
-        "facebook": "hasthemes",
-        "twitter": "hasthemes",
-        "linkedin": "hasthemes"
-      }
-    }
-  },
-  {
-    "id": 4,
-    "title": "New Factory",
-    "excerpt": "`A promotional video for the newly established OKE headquarters manufacturing plant`",
-    "thumb": "tech_news/04.png",
-    "content": "<p>A promotional video for the newly established OKE headquarters manufacturing plant.</p> <p> https://youtu.be/2B24h9BKtMc</p>",
-    "publishDate": "Feb 04, 2024",
-    "author": {
-      "name": "CKTOOL",
-      "designation": "",
-      "proPic": "tech_news/04.png",
-      "socials": {
-        "facebook": "hasthemes",
-        "twitter": "hasthemes",
-        "linkedin": "hasthemes"
-      }
-    }
-  },
-  {
-    "id": 5,
-    "title": "OKE in Japan",
-    "excerpt": "OKE headquarters attended JIMTOF 2024 held in Japan.",
-    "thumb": "tech_news/05.png",
-    "content": "<p> OKE headquarters attended JIMTOF 2024 held in Japan.</p> <p> https://youtu.be/8m76jgkaywM</p>",
-    "publishDate": "Feb 05, 2024",
-    "author": {
-      "name": "CKTOOL",
-      "designation": "",
-      "proPic": "tech_news/05.png",
-      "socials": {
-        "facebook": "hasthemes",
-        "twitter": "hasthemes",
-        "linkedin": "hasthemes"
-      }
-    }
-  },
-  {
-    "id": 6,
-    "title": "OKE in Chicago",
-    "excerpt": "OKE headquarters attended IMTS 2024 held in the United States.",
-    "thumb": "tech_news/06.png",
-    "content": "<p> OKE headquarters attended IMTS 2024 held in the United States.</p> <p> https://youtu.be/3jo9Ib9wdUk</p>",
-    "publishDate": "Feb 06, 2024",
-    "author": {
-      "name": "CKTOOL",
-      "designation": "",
-      "proPic": "tech_news/06.png",
-      "socials": {
-        "facebook": "hasthemes",
-        "twitter": "hasthemes",
-        "linkedin": "hasthemes"
-      }
-    }
-  },
-  {
-    "id": 7,
-    "title": "CK Tool Busan Branch",
-    "excerpt": "On February 5th, the opening ceremony of CK Tool Busan Branch was held.",
-    "thumb": "tech_news/07.png",
-    "content": "<p> On February 5th, the opening ceremony of CK Tool Busan Branch was held.</p> <p> https://youtu.be/3jo9Ib9wdUk</p>",
-    "publishDate": "Feb 05, 2025",
-    "author": {
-      "name": "CKTOOL",
-      "designation": "",
-      "proPic": "tech_news/07.png",
       "socials": {
         "facebook": "hasthemes",
         "twitter": "hasthemes",

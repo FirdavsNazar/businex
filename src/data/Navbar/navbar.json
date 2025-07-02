@@ -21,29 +21,19 @@
     "megaMenu": false,
     "subMenu": false
   },
-  {
+   {
     "id": 4,
-    "title": "Product",
+    "title": "Courses",
     "link": "/team",
     "megaMenu": false,
     "subMenu": false
   },
   {
     "id": 5,
-    "title": "Tech News",
-     "link": "/blog-grid-without-sidebar",
+    "title": "News",
+     "link": "/blog-grid-left-sidebar",
     "megaMenu": false,
-    "subMenu": [
-      {
-        "title": "New Items",
-        "link": "/blog-grid-without-sidebar"
-      },
-      {
-        
-        "title": "CKTOOL News",
-        "link": "/blog-grid-left-sidebar"
-      }
-    ]
+    "subMenu": false
   },
   {
     "id": 6,
