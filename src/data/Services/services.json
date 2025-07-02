@@ -5,8 +5,7 @@
     "shortDesc": "O'qish muddati:  6 hafta",
     "thumb": "service/1a.jpg",
     "previewImages": [
-      "service/details/ompq/02_ompq_kr.png",
-      "service/details/ompq/02_ompq_kr.png"
+      "service/details/1a/1a.jpg"
 
     ],
     "aboutServiceDesc": "<p>   </p>",
@@ -21,8 +20,7 @@
     "shortDesc": "O'qish muddati:  6 hafta",
     "thumb": "service/1b.jpg",
     "previewImages": [
-      "service/details/ompx/02_ompx_kr.jpg",
-      "service/details/ompx/01_ompx_en.png"
+      "service/details/1b/1b.jpg"
     ],
    "aboutServiceDesc": "<p>   </p>",
     "features": [
@@ -36,10 +34,7 @@
     "shortDesc": "O'qish muddati:  6 hafta",
     "thumb": "service/2a.jpg",
     "previewImages": [
-      "service/details/omh/02_omh_kr.png",
-      "service/details/omh/01_omh_en.png",
-      "service/details/omh/omh_01.jpg",
-      "service/details/omh/omh_02.jpg"
+      "service/details/2a/2a.jpg"
     ],
    "aboutServiceDesc": "<p>   </p>",
     "features": [
@@ -53,10 +48,7 @@
     "shortDesc": "O'qish muddati:  6 hafta",
     "thumb": "service/2b.jpg", 
     "previewImages": [
-      "service/details/omhh/02_omhh_kr.png",
-      "service/details/omhh/01_omhh_en.png",
-      "service/details/omhh/omhh_01.jpg",
-      "service/details/omhh/omhh_02.jpg"
+      "service/details/2b/2b.jpg"
     ],
     "aboutServiceDesc": "<p>   </p>",
     "features": [
@@ -71,10 +63,7 @@
     "shortDesc": " O'qish muddati:  2 oy",
     "thumb": "service/topic5.jpg",
     "previewImages": [
-      "service/details/oms/02_oms_kr.png",
-      "service/details/oms/01_oms_en.png",
-      "service/details/oms/oms_01.jpg",
-      "service/details/oms/oms_02.jpg"
+      "service/details/topic1/topic5.jpg"
     ],
    "aboutServiceDesc": "<p>   </p>",
     "features": [
@@ -87,14 +76,11 @@
   },
   {
     "id": 6,
-    "title": "Topic II",
+    "title": "TOPIC II",
     "shortDesc": " O'qish muddati:  3 oy",
     "thumb": "service/topic5.jpg",
     "previewImages": [
-      "service/details/omm/02_omm_kr.jpg",
-      "service/details/omm/01_omm_en.png",
-      "service/details/omm/omm_01.jpg",
-      "service/details/omm/omm_02.jpg"
+      "service/details/topic2/topic5.jpg"
     ],
     "aboutServiceDesc": "<p>   </p>",
     "features": [
@@ -111,10 +97,7 @@
     "shortDesc": "O'qish muddati:  3 oy",
     "thumb": "service/backend.jpg",
     "previewImages": [
-      "service/details/omal/02_omal_kr.png",
-      "service/details/omal/01_omal_en.png",
-      "service/details/omal/omal_01.jpg",
-      "service/details/omal/omal_02.jpg"
+      "service/details/front/backend.jpg"
     ],
     "aboutServiceDesc": "<p>   </p>",
     "features": [
@@ -133,10 +116,7 @@
     "shortDesc": "O'qish muddati:  3 oy",
     "thumb": "service/backend.jpg",
     "previewImages": [
-     "service/details/odb/02_odp_kr.png",
-      "service/details/odb/01_odp_en.png",
-      "service/details/odb/odp_02.jpg",
-      "service/details/odb/odp_03.jpg"
+     "service/details/back/backend.jpg"
     ],
    "aboutServiceDesc": "<p>   </p>",
     "features": [
@@ -151,9 +131,7 @@
     "shortDesc": "2026-yil bahorgi semestr uchun qabullar ochilish jarayonida",
     "thumb": "service/overseas.jpg",
     "previewImages": [
-      "service/details/omt/omt_kr_1.jpg",
-      "service/details/omt/omt_en_2.jpg",
-      "service/details/omt/omt_03.jpg"
+      "service/details/overseas/overseas.jpg"
     ],
     "aboutServiceDesc": "<p>   </p>",
     "features": [
