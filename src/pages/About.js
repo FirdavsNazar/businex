@@ -20,12 +20,12 @@ const PageAbout = () => {
         <Fragment>
             <Header/>
             <PageHeader
-          bgImg={require('../assets/img/about/about_main_2.jpg')}
+          bgImg={require('../assets/img/about/main7.jpg')}
                 //  bgVideo={require('../assets/img/about_video.mp4')}
                 // title = <h1> About US </h1>
                 // content= "Businex always try to provide the best Business Solutions for Clients to grow up their Business very sharply and smoothly."
                 
-            /> <br></br>
+            /> 
             <About
                 title={'Our Team'}
                 heading="Meet Our <br/> Expert Member"

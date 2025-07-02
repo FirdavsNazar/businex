@@ -15,13 +15,13 @@ const SidebarForBlog = ({classes}) => {
     return (
         <Sidebar classes={`col-lg-3 ${classes}`}>
             <SidebarItem title={'CATEGORIES'} classes={'single-sidebar-item-wrap'}>
-                <List classes={'sidebar-list'}>
+                {/* <List classes={'sidebar-list'}>
                     {
                         Categories.categories.map(category=>(
                             <LI key={category.id}><Anchor path={category.cate_link}>{category.cate_name}</Anchor></LI>
                         ))
                     }
-                </List>
+                </List> */}
             </SidebarItem>
 
             {/* <SidebarItem title={'FEATURED POSTS'} classes={'single-sidebar-item-wrap'}>

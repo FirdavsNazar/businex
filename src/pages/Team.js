@@ -10,14 +10,14 @@ import Footer from "../components/Footer";
 import LoginRegister from "../components/LoginRegister";
 import MobileMenu from "../components/MobileMenu";
 
-import ServiceThumb from '../assets/img/team/endmill2.jpg'
+import ServiceThumb from '../assets/img/team/about3.jpg'
 
 const PageTeam = () => {
     return (
         <Fragment>
             <Header/>
             <PageHeader
-                bgImg={require('../assets/img/team/main2.jpg')}
+                bgImg={require('../assets/img/team/main5.jpg')}
                 // title={
                 //     <span style={{ color: 'black' }}>
                 //     PRODUCTS
@@ -25,8 +25,8 @@ const PageTeam = () => {
                 //   }
             />
             <About
-                title={'PRODUCT'}
-                heading="ENDMILL <br/> AND DRILL SERIES"
+                // title={'PRODUCT'}
+                heading="Build Your <br/> Tomorrow"
                 thumb={ServiceThumb}
                 // content="<b>CKTOOL</b> always try to provide the best Business Solutions for Clinets to grow up their Business very sharply and smoothly. We voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
             />
