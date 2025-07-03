@@ -1,41 +1,41 @@
 [
   {
     "id": 1,
-    "planName": "Free",
+    "planName": "TEKIN PAKET",
     "currencyType": "$",
     "planPrice": "00",
     "subscribePlan": "mo",
     "planFeatures": [
-      "Branding strategy identity",
-      "Marketing campaign & PR",
-      "Website and app designing",
-      "Content development"
+      "1 martalik bepul tanishtiruv darsi (Koreys tili yoki IT)",
+      "Yo'nalishga qarab bepul maslahat",
+      "Chetga o'qish yoki ishlash bo'yicha maslahat"
     ]
   },
   {
     "id": 2,
-    "planName": "Small Business",
+    "planName": "PREMIUM PAKET",
     "currencyType": "$",
-    "planPrice": "49",
+    "planPrice": "23",
     "subscribePlan": "mo",
     "planFeatures": [
-      "Content development",
-      "Branding strategy identity",
-      "Marketing campaign & PR",
-      "Website and app designing"
+      "한국어 1–2 va TOPIK I darslari (face-to-face)",
+      "IT asosiy kurslari (HTML, CSS, JS boshlang‘ich)",
+      "Konsultatsiya + hujjat tekshirish",
+      "Sertifikat + tavsiyanoma"
     ]
   },
   {
     "id": 3,
-    "planName": "Professional",
+    "planName": "Super Premium",
     "currencyType": "$",
-    "planPrice": "99",
+    "planPrice": "30",
     "subscribePlan": "mo",
     "planFeatures": [
-      "Website and app designing",
-      "Content development",
-      "Branding strategy identity",
-      "Marketing campaign & PR"
+      "Koreys tili (Hankuko + TOPIK 1, 2) to‘liq kurs",
+      "IT Frontend + Backend darslari",
+      "1:1 mentorlik (individual yondashuv)",
+      "To‘liq agentlik xizmati (o‘qish, ish, viza)",
+      "Sertifikat + tavsiyanoma"
     ]
   }
 ]

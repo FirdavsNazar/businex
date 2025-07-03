@@ -5,7 +5,7 @@ import Slider from '../components/Slider/home-one'
 import About from '../components/About/home-one'
 import Features from '../components/Features'
 import Services from '../components/Services'
-import Team from "../components/Team/home-one";
+import Team from "../components/Team/home-two";
 import Blog from "../components/Blog";
 import BrandLogo from "../components/BrandLogo";
 import Funfact from "../components/Funfact";
@@ -23,8 +23,8 @@ const HomeOne = () => {
             <About/>
             <Features classes="sp-top"/>
             <Services classes="sm-top-wt"/>
-            {/* <Testimonials/> */}
-            {/* <Team/> */}
+            {/* <Testimonials/> */} <br/> <br/>
+            <Team/>
             <Blog/>
             <BrandLogo/>
             <Funfact/>

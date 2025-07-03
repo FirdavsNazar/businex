@@ -2,19 +2,19 @@
   {
     "id": 1,
     "title": "Creative Team",
-    "text": "We have creative team, they always ready to help you.",
+    "text": "Bizning jamoamiz har doim sizga yordam berishga tayyor.",
     "imgSrc": "feature/01.png"
   },
   {
     "id": 2,
     "title": "Best Service",
-    "text": "We have creative team, they always ready to help you.",
+    "text": "Biz doim mijozlarimizga eng yaxshi xizmatlarni taklif qilamiz.",
     "imgSrc": "feature/02.png"
   },
   {
     "id": 3,
     "title": "Online Support",
-    "text": "We have creative team, they always ready to help you.",
+    "text": "Onlayn qo‘llab-quvvatlash markazi doimo xizmatingizda.",
     "imgSrc": "feature/03.png"
   }
 ]

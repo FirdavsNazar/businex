@@ -2,20 +2,20 @@ import React from 'react';
 const MemberInfo = ({teamMember}) => {
     const {profilePic,name,designation,bio,socials,catalogueLink,phone,email,website} = teamMember;
     return (
-        <div className="member-details-top">
-            <div className="row">
+        <div className="member-details-top ">
+            <div className="row ">
                 <div className="col-md-5">
                     <div className="member-pic mb-sm-35">
                         <img src={require('../../assets/img/' + profilePic)} alt={name}/>
                     </div>
                 </div>
 
-                <div className="col-md-7 ml-auto">
-                    <div className="member-desc">
+                <div className="col-md-7 ml-auto ">
+                    <div className="member-desc ">
                         <h2>{name}</h2>
                         <h5>{designation}</h5>
                         <p dangerouslySetInnerHTML={{__html: bio}}/>
-                        <h5>{designation}</h5>
+                        {/* <h5>{designation}</h5> */}
                         <br/>
                         <br/>
                         
@@ -28,7 +28,7 @@ const MemberInfo = ({teamMember}) => {
                             <a href={`https://reddit.com/${socials.reddit}`} target="_blank" rel="noopener noreferrer" className="reddit"><i className="fa fa-reddit"/></a> */}
                             {/* <a href={`https://pinterest.com/${socials.pinterest}`} target="_blank" rel="noopener noreferrer" className="pinterest"><i className="fa fa-pinterest"/></a> */}
                         </div>
-                             <a 
+                             {/* <a 
                                    href={catalogueLink} 
                                    target="_blank" 
                                    rel="noopener noreferrer"
@@ -45,17 +45,17 @@ const MemberInfo = ({teamMember}) => {
                                  >
                                    <i className="fas fa-file-pdf"></i>
                                    Catalogue
-                             </a>
+                             </a> */}
 
 
 
 
-                        {/* <div className="contact-info mt-25">
-                            <p><strong>Address</strong> <span dangerouslySetInnerHTML={{__html: address}}/></p>
+                        <div className="contact-info mt-25">
+                            {/* <p><strong>Address</strong> <span dangerouslySetInnerHTML={{__html: address}}/></p> */}
                             <p><strong>Phone</strong> {phone}</p>
                             <p><strong>Email</strong> {email}</p>
                             <p><strong>Web</strong> {website}</p>
-                        </div> */}
+                        </div>
                     </div>
                 </div>
             </div>

@@ -3,6 +3,7 @@ import Header from "../components/Header";
 import PageHeader from "../components/PageHeader";
 import About from "../components/About/page";
 import Services from "../components/Services";
+import PricingTable from "../components/PricingTable";
 import BrandLogo from "../components/BrandLogo";
 import Funfact from "../components/Funfact";
 import CallToAction from "../components/CallToAction";
@@ -32,6 +33,7 @@ const PageTeam = () => {
             />
             <br></br><br></br>
             <Services/>
+             <PricingTable/>
             {/* <BrandLogo/>  */}
             <Funfact classes="sp-top"/>
             {/* <CallToAction/> */}
