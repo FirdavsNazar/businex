@@ -24,7 +24,7 @@ const PricingItem = ({cols,planName,currencyType,planPrice,subscribePlan,planFea
                     </List>
                 </div>
                 <div className="pricing-plan-footer">
-                    <a href="/" className="btn-outline">Sign Up Today</a>
+                    <a href="/contact" className="btn-outline">Sign Up Today</a>
                 </div>
             </div>
         </div>

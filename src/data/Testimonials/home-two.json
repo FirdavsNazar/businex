@@ -1,22 +1,22 @@
 [
   {
     "id": 1,
-    "quote": " Expert-Led Curriculum ",
+    "quote": " Malakali ustozlar ",
     "authorThumb": "testimonial/1.jpg"
   },
   {
     "id": 2,
-    "quote": "Supportive Environment ",
+    "quote": "Qo‘llab-quvvatlovchi muhit ",
     "authorThumb": "testimonial/2.jpg"
   },
   {
     "id": 3,
-    "quote": "Performance-Driven Training",
+    "quote": "Natijaga yo‘naltirilgan treninglar",
     "authorThumb": "testimonial/3.jpg"
   },
   {
     "id": 4,
-    "quote": "Goal-Oriented Results",
+    "quote": "Orzudan natijaga elituvchi amaliy ko'rsatmalar",
     "authorThumb": "testimonial/4.jpg"
   }
 ]

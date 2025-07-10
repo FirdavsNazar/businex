@@ -1,7 +1,7 @@
 import React from 'react';
 import SectionTitle from "../../UI/SectionTitle";
 
-import teamBg from '../../../assets/img/team/team-bg-2.jpg'
+import teamBg from '../../../assets/img/team/about6.jpg'
 import teamData from '../../../data/Team/home-two'
 import TeamMember from "./member";
 

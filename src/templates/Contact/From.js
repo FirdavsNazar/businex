@@ -29,19 +29,19 @@ const From = () => {
       <form ref={form} onSubmit={sendEmail} id="contact-form">
         <div className="row">
           <div className="col-md-6">
-            <FormInput tag="input" type="text" name="first_name" placeholder="First Name *" />
+            <FormInput tag="input" type="text" name="first_name" placeholder="Ism *" />
           </div>
           <div className="col-md-6">
-            <FormInput tag="input" type="text" name="last_name" placeholder="Last Name *" />
+            <FormInput tag="input" type="text" name="last_name" placeholder="Familya *" />
           </div>
           <div className="col-md-6">
             <FormInput tag="input" type="email" name="email_address" placeholder="Email address *" />
           </div>
           <div className="col-md-6">
-            <FormInput tag="input" type="text" name="phone_no" placeholder="Phone No" />
+            <FormInput tag="input" type="number" name="phone_no" placeholder="Phone No" />
           </div>
           <div className="col-12">
-            <FormInput tag="textarea" name="con_message" placeholder="Write Your Message *" />
+            <FormInput tag="textarea" name="con_message" placeholder="Taklifni yozish *" />
             <FormInput tag="button" classes="btn-outline" />
             <div className="form-message" />
           </div>

@@ -10,7 +10,7 @@ function Blog() {
             <div className="container">
                 <div className="row">
                     <div className="col-12 text-center">
-                        <SectionTitle title="ACADEMY NEWS" heading="What's New in LEVEL UP"/>
+                        <SectionTitle title="ACADEMY NEWS" heading="Yangiliklar"/>
                     </div>
                 </div>
 

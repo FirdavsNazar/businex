@@ -11,8 +11,8 @@ const PricingTable = () => {
                 <div className="row">
                     <div className="col-12 text-center">
                         <SectionTitle
-                            title="Pricing Plan"
-                            heading="Our Best <br>Suitable Prices"
+                            title="Paketlar"
+                            heading="Eng maqbul <br>narxlar"
                         />
                     </div>
                 </div>

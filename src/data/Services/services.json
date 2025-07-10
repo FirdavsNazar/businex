@@ -3,6 +3,7 @@
     "id": 1,
     "title": "한국어 1A (Boshlang‘ich daraja)" ,
     "shortDesc": "O'qish muddati:  6 hafta",
+    "ebookLink": "https://drive.google.com/file/d/1AjJ6wxzF5Z97_GTcGiHQixSKX1W6ePOo/view?usp=sharing",
     "thumb": "service/1a.jpg",
     "previewImages": [
       "service/details/1a/1a.jpg"
@@ -18,6 +19,7 @@
     "id": 2,
     "title": "한국어 1B  (Boshlang‘ich yuqori daraja)",
     "shortDesc": "O'qish muddati:  6 hafta",
+    "ebookLink": "https://drive.google.com/file/d/1yXOforQv4Sft1_HTV2JatQy8Jf3xgeRZ/view?usp=sharing",
     "thumb": "service/1b.jpg",
     "previewImages": [
       "service/details/1b/1b.jpg"
@@ -32,6 +34,7 @@
     "id": 3,
     "title": "한국어 2A (O‘rta boshlang‘ich daraja)",
     "shortDesc": "O'qish muddati:  6 hafta",
+    "ebookLink": "https://drive.google.com/file/d/1Eyrd2rkYBD7R1FHon-k_TFbI-R4KI771/view?usp=sharing",
     "thumb": "service/2a.jpg",
     "previewImages": [
       "service/details/2a/2a.jpg"
@@ -46,6 +49,7 @@
     "id": 4,
     "title": "한국어 2B  (O‘rta daraja)",
     "shortDesc": "O'qish muddati:  6 hafta",
+    "ebookLink": "https://drive.google.com/file/d/1PHuq2KPn6EayFHs93SLjDOpqoG4ZYoFh/view?usp=sharing",
     "thumb": "service/2b.jpg", 
     "previewImages": [
       "service/details/2b/2b.jpg"
@@ -61,6 +65,7 @@
     "id": 5,
     "title": "TOPIK I",
     "shortDesc": " O'qish muddati:  2 oy",
+    "ebookLink": "https://mail.google.com/mail/u/1/#inbox/FMfcgzQbgJFMBQXgxVbwVlCkkhcncQjq",
     "thumb": "service/topic5.jpg",
     "previewImages": [
       "service/details/topic1/topic5.jpg"
@@ -78,6 +83,7 @@
     "id": 6,
     "title": "TOPIC II",
     "shortDesc": " O'qish muddati:  3 oy",
+    "ebookLink": "https://mail.google.com/mail/u/1/#inbox/FMfcgzQbgJFMBQXgxVbwVlCkkhcncQjq",
     "thumb": "service/topic5.jpg",
     "previewImages": [
       "service/details/topic2/topic5.jpg"
@@ -95,6 +101,7 @@
     "id": 7,
     "title": "Frontend (Veb interfeys)",
     "shortDesc": "O'qish muddati:  3 oy",
+    "ebookLink": "https://mail.google.com/mail/u/1/#inbox/FMfcgzQbgJFMBQXgxVbwVlCkkhcncQjq",
     "thumb": "service/backend.jpg",
     "previewImages": [
       "service/details/front/backend.jpg"
@@ -114,6 +121,7 @@
     "id": 8,
     "title": "Backend (Server qismi)",
     "shortDesc": "O'qish muddati:  3 oy",
+    "ebookLink": "https://mail.google.com/mail/u/1/#inbox/FMfcgzQbgJFMBQXgxVbwVlCkkhcncQjq",
     "thumb": "service/backend.jpg",
     "previewImages": [
      "service/details/back/backend.jpg"
@@ -129,6 +137,7 @@
     "id": 9,
     "title": "Agentlik (Koreada o'qish va ishlash)",
     "shortDesc": "2026-yil bahorgi semestr uchun qabullar ochilish jarayonida",
+    "ebookLink": "https://mail.google.com/mail/u/1/#inbox/FMfcgzQbgJFMBQXgxVbwVlCkkhcncQjq",
     "thumb": "service/overseas.jpg",
     "previewImages": [
       "service/details/overseas/overseas.jpg"

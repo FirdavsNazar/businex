@@ -12,7 +12,7 @@ function Services({classes}) {
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-6 col-xl-5 m-auto text-center">
-                            <SectionTitle variant="light" heading="Courses" />
+                            <SectionTitle variant="light" heading="Kurslar" />
                         </div>
                     </div>
                 </div>
@@ -23,7 +23,7 @@ function Services({classes}) {
                     <div className="row mtn-30">
                         {
                             ServicesData.map(service=>(
-                                <ServiceItem key={service.id} id={service.id} title={service.title} text={service.shortDesc} thumb={service.thumb}/>
+                                <ServiceItem key={service.id} id={service.id} title={service.title} text={service.shortDesc} link={service.catalogLink} thumb={service.thumb}/>
                             ))
                         }
                     </div>

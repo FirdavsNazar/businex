@@ -11,7 +11,7 @@ const ContactPage = () => {
                     <div className="row">
                         <div className="col-lg-8">
                             <div className="contact-form-area contact-method">
-                                <h3>Send us a Message</h3>
+                                <h3>Takliflarni yuboring</h3>
                                 <From/>
                             </div>
                         </div>

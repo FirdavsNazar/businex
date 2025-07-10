@@ -3,7 +3,7 @@
     "id": 1,
     "name": "FIRDAVS NAZAROV",
     "designation": "CEO & Founder",
-    "profilePic": "team/main_dev.jpg",
+    "profilePic": "team/main_dev_1.jpg",
     "bio": "Xalqaro biznes va kompyuter muhandisligi sohalari bo‘yicha THE 500~700 talik reytingidagi Gachon Universitetining bakalavr bosqichini tamomlagan. Koreya Respublikasidagi KCERA kompaniyasida Overseas Manager va Web Developer lavozimlarida faoliyat yuritgan. E-7-1 turdagi mutaxassislik vizasi asosida rasmiy ravishda ishlagan. Shuningdek, O‘zbekiston Respublikasi Raqamli texnologiyalar vazirligining Janubiy Koreyadagi IT biznesi yo‘nalishi bo‘yicha ambassadori (elchisi) sifatida faoliyat olib borgan. Web dasturlash, xalqaro savdo, koreys va ingliz tillari o‘qitish yo‘nalishlarida tajribaga ega.",
     "address": "256 Central Street, Mosque Tower <br/> Central City, New York",
     "phone": "+012354 658 987",
@@ -91,14 +91,14 @@
   },
   {
     "id": 2,
-    "name": "James Anderson",
-    "designation": "HR & Admin",
-    "profilePic": "team/02.jpg",
-    "bio": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique sunt in culpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti atque corrupti quosres <br/> Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique sunt in culpa modi tempora incidunt ut labore",
+    "name": "RAVSHANOV JAHONGIR",
+    "designation": "Xalqaro Auto savdo manageri",
+    "profilePic": "team/img2.png",
+    "bio": "Jahongir Ravshanov — Gachon Universitetining Xalqaro biznes boshqaruvi va IT yo‘nalishida bakalavr diplomi sohibi. Hozirda SCAR kompaniyasida xalqaro avtomobil savdosi bo‘yicha Yevropa davlatlari bilan faoliyat olib bormoqda.",
     "address": "256 Central Street, Mosque Tower <br/> Central City, New York",
-    "phone": "+012354 658 987",
-    "email": "mail@lucyfarnando.com",
-    "website": "www.lucyfarnando.com",
+    "phone": "+821045697845",
+    "email": "john@gmail.com",
+    "website": "levelup.com",
     "socials": {
       "facebook": "rajuahammadfanz",
       "twitter": "rajuahammadfanz",
@@ -109,22 +109,22 @@
     "skills": [
       {
         "no": 1,
-        "title": "UI",
+        "title": "Savdo",
         "percentage": 95
       },
       {
         "no": 2,
-        "title": "UX",
+        "title": "Boshqaruv",
         "percentage": 89
       },
       {
         "no": 3,
-        "title": "Photoshop",
-        "percentage": 91
+        "title": "JS",
+        "percentage": 80
       },
       {
         "no": 4,
-        "title": "Adobe XD",
+        "title": "Marketing",
         "percentage": 85
       }
     ],
@@ -181,14 +181,14 @@
   },
   {
     "id": 3,
-    "name": "Thomas Nancy",
-    "designation": "Software Engineer",
-    "profilePic": "team/03.jpg",
-    "bio": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique sunt in culpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti atque corrupti quosres <br/> Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique sunt in culpa modi tempora incidunt ut labore",
+    "name": "ZUHRIDDIN JABBOROV",
+    "designation": "Xalqaro savdo manageri",
+    "profilePic": "team/img2.png",
+    "bio": "Zuhriddin Jabborov — Kelvin Universiteti magistratura bosqichi talabasi. Bakalavrni Busan shahridagi Dongseo Universitetida tamomlagan. O‘z mutaxassisligi bo‘yicha bir nechta amaliyot (internship) dasturlarida qatnashgan va hozirda shu sohada ish faoliyatini boshlash jarayonida.",
     "address": "256 Central Street, Mosque Tower <br/> Central City, New York",
-    "phone": "+012354 658 987",
-    "email": "mail@lucyfarnando.com",
-    "website": "www.lucyfarnando.com",
+    "phone": "+821058478965",
+    "email": "zukhridin@gmail.com",
+    "website": "levelup.com",
     "socials": {
       "facebook": "rajuahammadfanz",
       "twitter": "rajuahammadfanz",
@@ -209,12 +209,12 @@
       },
       {
         "no": 3,
-        "title": "Photoshop",
-        "percentage": 91
+        "title": "Kores tili",
+        "percentage": "3-daraja"
       },
       {
         "no": 4,
-        "title": "Adobe XD",
+        "title": "JS",
         "percentage": 85
       }
     ],

@@ -54,7 +54,7 @@ function NavbarItem(props) {
             ))}
 
             {/* Conditionally render "Catalogue" item for mobile only with an external link */}
-            {isMobile && (
+            {/* {isMobile && (
                 <li key="catalogue">
                     <a 
                         href="https://drive.google.com/file/d/1wS3HxZgPc20GI8zT32Nt9Li0zWpW_0yw/view?usp=drive_link" 
@@ -65,7 +65,7 @@ function NavbarItem(props) {
                         Catalogue
                     </a>
                 </li>
-            )}
+            )} */}
         </>
     );
 }

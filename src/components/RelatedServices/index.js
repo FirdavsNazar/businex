@@ -12,7 +12,7 @@ const RelatedServices = () => {
                     <div className="col-lg-7 m-auto text-center">
                         <SectionTitle
                             title="LevelUp Academy"
-                            heading="MORE CLASSES"
+                            heading="Boshqa Kurslar"
                         />
                     </div>
                 </div>

@@ -30,6 +30,23 @@ const ServiceContentWrap = ({service,totalService,prevService,nextService}) => {
                 <div className="service-details-info">
                     <h3>{service.title}</h3>
                     <p>{service.shortDesc}</p>
+                    <p>
+            <a
+                href={service.ebookLink}
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{
+                    display: 'inline-flex',
+                    alignItems: 'center',
+                    color: '#d32f2f',
+                    fontWeight: 'bold',
+                    textDecoration: 'none'
+                }}
+            >
+                <i className="fa fa-file-pdf-o" style={{ marginRight: '6px' }}></i>
+                E-book yuklash
+            </a>
+        </p>
 
                     <div className="about-service mt-50 mt-sm-35">
                         <h4></h4>

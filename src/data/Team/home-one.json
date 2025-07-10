@@ -3,8 +3,8 @@
     "id": 1,
     "name": "FIRDAVS NAZAROV",
     "designation": "CEO & Founder",
-    "profilePic": "team/main_dev2.jpg",
-    "bio": "Xalqaro biznes va kompyuter muhandisligi sohalari bo‘yicha THE 500~700 talik reytingidagi Gachon Universitetining bakalavr bosqichini tamomlagan. Koreya Respublikasidagi KCERA kompaniyasida Overseas Manager va Web Developer lavozimlarida faoliyat yuritgan. E-7-1 turdagi mutaxassislik vizasi asosida rasmiy ravishda ishlagan. Shuningdek, O‘zbekiston Respublikasi Raqamli texnologiyalar vazirligining Janubiy Koreyadagi IT biznesi yo‘nalishi bo‘yicha ambassadori (elchisi) sifatida faoliyat olib borgan. Web dasturlash, xalqaro savdo, koreys va ingliz tillari o‘qitish yo‘nalishlarida tajribaga ega.",
+    "profilePic": "team/main_dev3.jpg",
+    "bio": "Xalqaro biznes va kompyuter muhandisligi sohalari bo‘yicha THE 500~700 talik reytingidagi Gachon Universitetining bakalavr bosqichini tamomlagan. Koreya Respublikasidagi KCERA kompaniyasida Overseas Manager va Web Developer lavozimlarida faoliyat yuritib kelmoqda. E-7-1 turdagi mutaxassislik vizasi asosida rasmiy ravishda ishlab, shuningdek, O‘zbekiston Respublikasi Raqamli texnologiyalar vazirligining Janubiy Koreyadagi IT biznesi yo‘nalishi bo‘yicha ambassadori (elchisi) sifatida faoliyat olib bormoqda. Web dasturlash, xalqaro savdo, koreys va ingliz tillari o‘qitish yo‘nalishlarida tajribaga ega.",
     "address": "256 Central Street, Mosque Tower <br/> Central City, New York",
     "phone": "+821026745444",
     "email": "fredrickuzb55@gmail.com",
@@ -61,43 +61,43 @@
     "education": [
       {
         "no": 1,
-        "institute": "Gachon university",
-        "degree": "DIPLOMA IN COUMPUTER ENGINEERING",
-        "duration": "SEP 20 - Jan 2008",
-        "comment": "Similique tempora deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+        "institute": "Sungkyunkwan University (RK 50~100)",
+        "degree": "Software ENGINEERING",
+        "duration": "Soon",
+        "comment": " Magistratura uchun hujjat ishlari davom etmoqda"
       },
       {
         "no": 2,
-        "institute": "Gachon university",
+        "institute": "Gachon university (RK 500~700)",
         "degree": "DIPLOMA IN GLOBAL BUSINESS ADMINISTRATION ",
         "duration": "SEP 2019 - DEC 2024",
-        "comment": "Corrupti molestias deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+        "comment": "Global Business Management – Har bir semestrda GPA 3.8+, imtiyozli stipendiya bilan taqdirlangan. Bitirish yili yakunida TOP 50 talik xalqaro studentlar safida o'qishni tamomlagan"
       },
       {
         "no": 3,
-        "institute": "Gachon university",
+        "institute": "Gachon university (RK 500~700)",
         "degree": "DIPLOMA IN COUMPUTER ENGINEERING",
         "duration": "SEP 20 - Jan 2008",
-        "comment": "Similique tempora deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+        "comment": "Gachon Universiteti (Janubiy Koreya) – Kompyuter muhandisligi bakalavri, GPA 4.0+, stipendiya bilan taqdirlangan"
       },
       {
         "no": 4,
         "institute": "Akademik Litsey",
         "degree": "GLOBAL LANGUAGES ",
         "duration": "SEN 2016 - MAY 2019",
-        "comment": ""      }
+        "comment": "O‘qish davomida xalqaro tillarga alohida e’tibor qaratib, ingliz va koreys tillarini chuqur o‘rgangan hamda ta’limni qizil diplom bilan yakunlagan."      }
     ]
   },
   {
     "id": 2,
-    "name": "James Anderson",
-    "designation": "HR & Admin",
-    "profilePic": "team/02.jpg",
-    "bio": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique sunt in culpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti atque corrupti quosres <br/> Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique sunt in culpa modi tempora incidunt ut labore",
+    "name": "JAHONGIR RAVSHANOV",
+    "designation": "Xalqaro moshina savdo manageri",
+    "profilePic": "team/img3.png",
+    "bio": "Jahongir Ravshanov — Gachon Universitetining Xalqaro biznes boshqaruvi va IT yo‘nalishida bakalavr diplomi sohibi. Hozirda SCAR kompaniyasida xalqaro avtomobil savdosi bo‘yicha Yevropa davlatlari bilan faoliyat olib bormoqda.",
     "address": "256 Central Street, Mosque Tower <br/> Central City, New York",
-    "phone": "+012354 658 987",
-    "email": "mail@lucyfarnando.com",
-    "website": "www.lucyfarnando.com",
+    "phone": "+821045697845",
+    "email": "john@gmail.com",
+    "website": "levelup.com",
     "socials": {
       "facebook": "rajuahammadfanz",
       "twitter": "rajuahammadfanz",
@@ -108,86 +108,60 @@
     "skills": [
       {
         "no": 1,
-        "title": "UI",
+        "title": "Savdo",
         "percentage": 95
       },
       {
         "no": 2,
-        "title": "UX",
+        "title": "Boshqaruv",
         "percentage": 89
       },
       {
         "no": 3,
-        "title": "Photoshop",
-        "percentage": 91
+        "title": "JS",
+        "percentage": 80
       },
       {
         "no": 4,
-        "title": "Adobe XD",
+        "title": "Marketing",
         "percentage": 85
       }
     ],
     "experiences": [
       {
         "no": 1,
-        "designation": "Web Designer",
+        "designation": "SCAR",
         "icon": "team/details/date-1.png",
-        "comment": "Voluptatum deleniti atque lorem ipsum use esed et quas molestias cepte"
-      },
-      {
-        "no": 2,
-        "designation": "Front End Developer",
-        "icon": "team/details/date-2.png",
-        "comment": "Deleniti atque lorem ipsum use esed et quas molestias cepte"
-      },
-      {
-        "no": 3,
-        "designation": "Senior Javascript Developer",
-        "icon": "team/details/date-3.png",
-        "comment": "Simibore et dolor amera boluptatum deleniti corrupti."
+        "comment": "Yepropaning qator davlatlari bilan moshina savdosi bo'yicha ishlab kelmoqda"
       }
     ],
     "education": [
       {
         "no": 1,
-        "institute": "University of Manchester",
-        "degree": "BACHELOR IN GRAPHICS",
-        "duration": "JAN 2013 - MAY 2016",
-        "comment": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+        "institute": "Gachon university (RK 500~700)",
+        "degree": "BACHELOR IN Global Business & IT",
+        "duration": "SEN 2018 - AUG 2022",
+        "comment": "GPA: 3.7"
       },
       {
         "no": 2,
-        "institute": "University of Community",
-        "degree": "DIPLOMA IN ARTS",
-        "duration": "JAN 2010 - DEC 2012",
-        "comment": "Corrupti molestias deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
-      },
-      {
-        "no": 3,
-        "institute": "University of Science",
-        "degree": "DIPLOMA IN FECEBOOK",
-        "duration": "JAN 2007 - Jan 2008",
-        "comment": "Similique tempora deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
-      },
-      {
-        "no": 4,
-        "institute": "University of Green",
-        "degree": "DIPLOMA IN COMPUTER",
-        "duration": "JAN 2007 - Jan 2008",
-        "comment": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+        "institute": "Xalqaro til maktabi",
+        "degree": "Xorijiy tillar",
+        "duration": "JAN 2015 - MAY 2018",
+        "comment": "Xorijiy tillar, Kores va Ingliz tillarini o'rgangan"
       }
     ]
   },
   {
     "id": 3,
-    "name": "Thomas Nancy",
-    "designation": "Software Engineer",
-    "profilePic": "team/03.jpg",
-    "bio": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique sunt in culpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti atque corrupti quosres <br/> Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique sunt in culpa modi tempora incidunt ut labore",
+    "name": "ZUHRIDDIN JABBOROV",
+    "designation": "Xalqaro savdo ishlari manageri",
+    "profilePic": "team/img3.png",
+    "bio": "Zuhriddin Jabborov — Kelvin Universiteti magistratura bosqichi talabasi. Bakalavrni Busan shahridagi Dongseo Universitetida tamomlagan. O‘z mutaxassisligi bo‘yicha bir nechta amaliyot (internship) dasturlarida qatnashgan va hozirda shu sohada ish faoliyatini boshlash jarayonida.",
     "address": "256 Central Street, Mosque Tower <br/> Central City, New York",
-    "phone": "+012354 658 987",
-    "email": "mail@lucyfarnando.com",
-    "website": "www.lucyfarnando.com",
+    "phone": "+821058478965",
+    "email": "zukhridin@gmail.com",
+    "website": "levelup.com",
     "socials": {
       "facebook": "rajuahammadfanz",
       "twitter": "rajuahammadfanz",
@@ -208,513 +182,37 @@
       },
       {
         "no": 3,
-        "title": "Photoshop",
-        "percentage": 91
+        "title": "Kores tili",
+        "percentage": "3-daraja"
       },
       {
         "no": 4,
-        "title": "Adobe XD",
+        "title": "JS",
         "percentage": 85
       }
     ],
     "experiences": [
       {
         "no": 1,
-        "designation": "Web Designer",
+        "designation": "English tili o'qituvchisi",
         "icon": "team/details/date-1.png",
-        "comment": "Voluptatum deleniti atque lorem ipsum use esed et quas molestias cepte"
-      },
-      {
-        "no": 2,
-        "designation": "Front End Developer",
-        "icon": "team/details/date-2.png",
-        "comment": "Deleniti atque lorem ipsum use esed et quas molestias cepte"
-      },
-      {
-        "no": 3,
-        "designation": "Senior Javascript Developer",
-        "icon": "team/details/date-3.png",
-        "comment": "Simibore et dolor amera boluptatum deleniti corrupti."
+        "comment": "Koreada bolalarga Ingliz tilidan dars bergan"
       }
     ],
     "education": [
       {
         "no": 1,
-        "institute": "University of Manchester",
-        "degree": "BACHELOR IN GRAPHICS",
-        "duration": "JAN 2013 - MAY 2016",
-        "comment": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+        "institute": "University of Dongseo",
+        "degree": "BACHELOR IN GLOBAL BUSINESS ADMINISTRATION",
+        "duration": "SEN2017 - AUG 2021",
+        "comment": "Busan shahrida 3.8 GPA bilan o'qishni yakunlagan "
       },
       {
         "no": 2,
-        "institute": "University of Community",
-        "degree": "DIPLOMA IN ARTS",
-        "duration": "JAN 2010 - DEC 2012",
-        "comment": "Corrupti molestias deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
-      },
-      {
-        "no": 3,
-        "institute": "University of Science",
-        "degree": "DIPLOMA IN FECEBOOK",
-        "duration": "JAN 2007 - Jan 2008",
-        "comment": "Similique tempora deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
-      },
-      {
-        "no": 4,
-        "institute": "University of Green",
-        "degree": "DIPLOMA IN COMPUTER",
-        "duration": "JAN 2007 - Jan 2008",
-        "comment": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "name": "Nail Mathue",
-    "designation": "Creative Designer",
-    "profilePic": "team/04.jpg",
-    "bio": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique sunt in culpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti atque corrupti quosres <br/> Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique sunt in culpa modi tempora incidunt ut labore",
-    "address": "256 Central Street, Mosque Tower <br/> Central City, New York",
-    "phone": "+012354 658 987",
-    "email": "mail@lucyfarnando.com",
-    "website": "www.lucyfarnando.com",
-    "socials": {
-      "facebook": "rajuahammadfanz",
-      "twitter": "rajuahammadfanz",
-      "linkedin": "rajuahammadfanz",
-      "reddit": "rajuahammadfanz",
-      "pinterest": "rajuahammadfanz"
-    },
-    "skills": [
-      {
-        "no": 1,
-        "title": "UI",
-        "percentage": 95
-      },
-      {
-        "no": 2,
-        "title": "UX",
-        "percentage": 89
-      },
-      {
-        "no": 3,
-        "title": "Photoshop",
-        "percentage": 91
-      },
-      {
-        "no": 4,
-        "title": "Adobe XD",
-        "percentage": 85
-      }
-    ],
-    "experiences": [
-      {
-        "no": 1,
-        "designation": "Web Designer",
-        "icon": "team/details/date-1.png",
-        "comment": "Voluptatum deleniti atque lorem ipsum use esed et quas molestias cepte"
-      },
-      {
-        "no": 2,
-        "designation": "Front End Developer",
-        "icon": "team/details/date-2.png",
-        "comment": "Deleniti atque lorem ipsum use esed et quas molestias cepte"
-      },
-      {
-        "no": 3,
-        "designation": "Senior Javascript Developer",
-        "icon": "team/details/date-3.png",
-        "comment": "Simibore et dolor amera boluptatum deleniti corrupti."
-      }
-    ],
-    "education": [
-      {
-        "no": 1,
-        "institute": "University of Manchester",
-        "degree": "BACHELOR IN GRAPHICS",
-        "duration": "JAN 2013 - MAY 2016",
-        "comment": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
-      },
-      {
-        "no": 2,
-        "institute": "University of Community",
-        "degree": "DIPLOMA IN ARTS",
-        "duration": "JAN 2010 - DEC 2012",
-        "comment": "Corrupti molestias deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
-      },
-      {
-        "no": 3,
-        "institute": "University of Science",
-        "degree": "DIPLOMA IN FECEBOOK",
-        "duration": "JAN 2007 - Jan 2008",
-        "comment": "Similique tempora deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
-      },
-      {
-        "no": 4,
-        "institute": "University of Green",
-        "degree": "DIPLOMA IN COMPUTER",
-        "duration": "JAN 2007 - Jan 2008",
-        "comment": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
-      }
-    ]
-  },
-  {
-    "id": 5,
-    "name": "Jeff Bezos",
-    "designation": "UI/UX Designer",
-    "profilePic": "team/05.jpg",
-    "bio": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique sunt in culpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti atque corrupti quosres <br/> Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique sunt in culpa modi tempora incidunt ut labore",
-    "address": "256 Central Street, Mosque Tower <br/> Central City, New York",
-    "phone": "+012354 658 987",
-    "email": "mail@lucyfarnando.com",
-    "website": "www.lucyfarnando.com",
-    "socials": {
-      "facebook": "rajuahammadfanz",
-      "twitter": "rajuahammadfanz",
-      "linkedin": "rajuahammadfanz",
-      "reddit": "rajuahammadfanz",
-      "pinterest": "rajuahammadfanz"
-    },
-    "skills": [
-      {
-        "no": 1,
-        "title": "UI",
-        "percentage": 95
-      },
-      {
-        "no": 2,
-        "title": "UX",
-        "percentage": 89
-      },
-      {
-        "no": 3,
-        "title": "Photoshop",
-        "percentage": 91
-      },
-      {
-        "no": 4,
-        "title": "Adobe XD",
-        "percentage": 85
-      }
-    ],
-    "experiences": [
-      {
-        "no": 1,
-        "designation": "Web Designer",
-        "icon": "team/details/date-1.png",
-        "comment": "Voluptatum deleniti atque lorem ipsum use esed et quas molestias cepte"
-      },
-      {
-        "no": 2,
-        "designation": "Front End Developer",
-        "icon": "team/details/date-2.png",
-        "comment": "Deleniti atque lorem ipsum use esed et quas molestias cepte"
-      },
-      {
-        "no": 3,
-        "designation": "Senior Javascript Developer",
-        "icon": "team/details/date-3.png",
-        "comment": "Simibore et dolor amera boluptatum deleniti corrupti."
-      }
-    ],
-    "education": [
-      {
-        "no": 1,
-        "institute": "University of Manchester",
-        "degree": "BACHELOR IN GRAPHICS",
-        "duration": "JAN 2013 - MAY 2016",
-        "comment": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
-      },
-      {
-        "no": 2,
-        "institute": "University of Community",
-        "degree": "DIPLOMA IN ARTS",
-        "duration": "JAN 2010 - DEC 2012",
-        "comment": "Corrupti molestias deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
-      },
-      {
-        "no": 3,
-        "institute": "University of Science",
-        "degree": "DIPLOMA IN FECEBOOK",
-        "duration": "JAN 2007 - Jan 2008",
-        "comment": "Similique tempora deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
-      },
-      {
-        "no": 4,
-        "institute": "University of Green",
-        "degree": "DIPLOMA IN COMPUTER",
-        "duration": "JAN 2007 - Jan 2008",
-        "comment": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
-      }
-    ]
-  },
-  {
-    "id": 6,
-    "name": "Bernard Arnault",
-    "designation": "Web Designer",
-    "profilePic": "team/06.jpg",
-    "bio": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique sunt in culpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti atque corrupti quosres <br/> Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique sunt in culpa modi tempora incidunt ut labore",
-    "address": "256 Central Street, Mosque Tower <br/> Central City, New York",
-    "phone": "+012354 658 987",
-    "email": "mail@lucyfarnando.com",
-    "website": "www.lucyfarnando.com",
-    "socials": {
-      "facebook": "rajuahammadfanz",
-      "twitter": "rajuahammadfanz",
-      "linkedin": "rajuahammadfanz",
-      "reddit": "rajuahammadfanz",
-      "pinterest": "rajuahammadfanz"
-    },
-    "skills": [
-      {
-        "no": 1,
-        "title": "UI",
-        "percentage": 95
-      },
-      {
-        "no": 2,
-        "title": "UX",
-        "percentage": 89
-      },
-      {
-        "no": 3,
-        "title": "Photoshop",
-        "percentage": 91
-      },
-      {
-        "no": 4,
-        "title": "Adobe XD",
-        "percentage": 85
-      }
-    ],
-    "experiences": [
-      {
-        "no": 1,
-        "designation": "Web Designer",
-        "icon": "team/details/date-1.png",
-        "comment": "Voluptatum deleniti atque lorem ipsum use esed et quas molestias cepte"
-      },
-      {
-        "no": 2,
-        "designation": "Front End Developer",
-        "icon": "team/details/date-2.png",
-        "comment": "Deleniti atque lorem ipsum use esed et quas molestias cepte"
-      },
-      {
-        "no": 3,
-        "designation": "Senior Javascript Developer",
-        "icon": "team/details/date-3.png",
-        "comment": "Simibore et dolor amera boluptatum deleniti corrupti."
-      }
-    ],
-    "education": [
-      {
-        "no": 1,
-        "institute": "University of Manchester",
-        "degree": "BACHELOR IN GRAPHICS",
-        "duration": "JAN 2013 - MAY 2016",
-        "comment": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
-      },
-      {
-        "no": 2,
-        "institute": "University of Community",
-        "degree": "DIPLOMA IN ARTS",
-        "duration": "JAN 2010 - DEC 2012",
-        "comment": "Corrupti molestias deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
-      },
-      {
-        "no": 3,
-        "institute": "University of Science",
-        "degree": "DIPLOMA IN FECEBOOK",
-        "duration": "JAN 2007 - Jan 2008",
-        "comment": "Similique tempora deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
-      },
-      {
-        "no": 4,
-        "institute": "University of Green",
-        "degree": "DIPLOMA IN COMPUTER",
-        "duration": "JAN 2007 - Jan 2008",
-        "comment": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
-      }
-    ]
-  },
-  {
-    "id": 7,
-    "name": "Warren Buffett",
-    "designation": "Creative Supporter",
-    "profilePic": "team/01.jpg",
-    "bio": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique sunt in culpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti atque corrupti quosres <br/> Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique sunt in culpa modi tempora incidunt ut labore",
-    "address": "256 Central Street, Mosque Tower <br/> Central City, New York",
-    "phone": "+012354 658 987",
-    "email": "mail@lucyfarnando.com",
-    "website": "www.lucyfarnando.com",
-    "socials": {
-      "facebook": "rajuahammadfanz",
-      "twitter": "rajuahammadfanz",
-      "linkedin": "rajuahammadfanz",
-      "reddit": "rajuahammadfanz",
-      "pinterest": "rajuahammadfanz"
-    },
-    "skills": [
-      {
-        "no": 1,
-        "title": "UI",
-        "percentage": 95
-      },
-      {
-        "no": 2,
-        "title": "UX",
-        "percentage": 89
-      },
-      {
-        "no": 3,
-        "title": "Photoshop",
-        "percentage": 91
-      },
-      {
-        "no": 4,
-        "title": "Adobe XD",
-        "percentage": 85
-      }
-    ],
-    "experiences": [
-      {
-        "no": 1,
-        "designation": "Web Designer",
-        "icon": "team/details/date-1.png",
-        "comment": "Voluptatum deleniti atque lorem ipsum use esed et quas molestias cepte"
-      },
-      {
-        "no": 2,
-        "designation": "Front End Developer",
-        "icon": "team/details/date-2.png",
-        "comment": "Deleniti atque lorem ipsum use esed et quas molestias cepte"
-      },
-      {
-        "no": 3,
-        "designation": "Senior Javascript Developer",
-        "icon": "team/details/date-3.png",
-        "comment": "Simibore et dolor amera boluptatum deleniti corrupti."
-      }
-    ],
-    "education": [
-      {
-        "no": 1,
-        "institute": "University of Manchester",
-        "degree": "BACHELOR IN GRAPHICS",
-        "duration": "JAN 2013 - MAY 2016",
-        "comment": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
-      },
-      {
-        "no": 2,
-        "institute": "University of Community",
-        "degree": "DIPLOMA IN ARTS",
-        "duration": "JAN 2010 - DEC 2012",
-        "comment": "Corrupti molestias deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
-      },
-      {
-        "no": 3,
-        "institute": "University of Science",
-        "degree": "DIPLOMA IN FECEBOOK",
-        "duration": "JAN 2007 - Jan 2008",
-        "comment": "Similique tempora deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
-      },
-      {
-        "no": 4,
-        "institute": "University of Green",
-        "degree": "DIPLOMA IN COMPUTER",
-        "duration": "JAN 2007 - Jan 2008",
-        "comment": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
-      }
-    ]
-  },
-  {
-    "id": 8,
-    "name": "Larry Ellison",
-    "designation": "Front End Developer",
-    "profilePic": "team/02.jpg",
-    "bio": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique sunt in culpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti atque corrupti quosres <br/> Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique sunt in culpa modi tempora incidunt ut labore",
-    "address": "256 Central Street, Mosque Tower <br/> Central City, New York",
-    "phone": "+012354 658 987",
-    "email": "mail@lucyfarnando.com",
-    "website": "www.lucyfarnando.com",
-    "socials": {
-      "facebook": "rajuahammadfanz",
-      "twitter": "rajuahammadfanz",
-      "linkedin": "rajuahammadfanz",
-      "reddit": "rajuahammadfanz",
-      "pinterest": "rajuahammadfanz"
-    },
-    "skills": [
-      {
-        "no": 1,
-        "title": "UI",
-        "percentage": 95
-      },
-      {
-        "no": 2,
-        "title": "UX",
-        "percentage": 89
-      },
-      {
-        "no": 3,
-        "title": "Photoshop",
-        "percentage": 91
-      },
-      {
-        "no": 4,
-        "title": "Adobe XD",
-        "percentage": 85
-      }
-    ],
-    "experiences": [
-      {
-        "no": 1,
-        "designation": "Web Designer",
-        "icon": "team/details/date-1.png",
-        "comment": "Voluptatum deleniti atque lorem ipsum use esed et quas molestias cepte"
-      },
-      {
-        "no": 2,
-        "designation": "Front End Developer",
-        "icon": "team/details/date-2.png",
-        "comment": "Deleniti atque lorem ipsum use esed et quas molestias cepte"
-      },
-      {
-        "no": 3,
-        "designation": "Senior Javascript Developer",
-        "icon": "team/details/date-3.png",
-        "comment": "Simibore et dolor amera boluptatum deleniti corrupti."
-      }
-    ],
-    "education": [
-      {
-        "no": 1,
-        "institute": "University of Manchester",
-        "degree": "BACHELOR IN GRAPHICS",
-        "duration": "JAN 2013 - MAY 2016",
-        "comment": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
-      },
-      {
-        "no": 2,
-        "institute": "University of Community",
-        "degree": "DIPLOMA IN ARTS",
-        "duration": "JAN 2010 - DEC 2012",
-        "comment": "Corrupti molestias deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
-      },
-      {
-        "no": 3,
-        "institute": "University of Science",
-        "degree": "DIPLOMA IN FECEBOOK",
-        "duration": "JAN 2007 - Jan 2008",
-        "comment": "Similique tempora deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
-      },
-      {
-        "no": 4,
-        "institute": "University of Green",
-        "degree": "DIPLOMA IN COMPUTER",
-        "duration": "JAN 2007 - Jan 2008",
-        "comment": "Businex boluptatum deleniti atque corrupti quosres et quas molestias cepturi sint eca itate non vident, similique suntculpa modi tempora incidunt ut labore et dolor am aera boluptatum deleniti corrupti."
+        "institute": "University of Kelvin",
+        "degree": "MASTER IN GLOBAL BUSINESS ADMINISTRATION ",
+        "duration": "SEN 2021 - AUG 2025",
+        "comment": "Yaqinda o'qishni bitirish arafasida GPA: 4.1"
       }
     ]
   }

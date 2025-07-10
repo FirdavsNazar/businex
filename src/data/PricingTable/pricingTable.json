@@ -2,39 +2,38 @@
   {
     "id": 1,
     "planName": "TEKIN PAKET",
-    "currencyType": "$",
+    "currencyType": "So'm",
     "planPrice": "00",
-    "subscribePlan": "mo",
+    "subscribePlan": "oy",
     "planFeatures": [
-      "1 martalik bepul tanishtiruv darsi (Koreys tili yoki IT)",
+      "2 martalik bepul tanishtiruv darsi (Koreys tili yoki IT)",
       "Yo'nalishga qarab bepul maslahat",
       "Chetga o'qish yoki ishlash bo'yicha maslahat"
     ]
   },
   {
-    "id": 2,
-    "planName": "PREMIUM PAKET",
-    "currencyType": "$",
-    "planPrice": "23",
-    "subscribePlan": "mo",
-    "planFeatures": [
-      "한국어 1–2 va TOPIK I darslari (face-to-face)",
-      "IT asosiy kurslari (HTML, CSS, JS boshlang‘ich)",
-      "Konsultatsiya + hujjat tekshirish",
-      "Sertifikat + tavsiyanoma"
-    ]
-  },
-  {
     "id": 3,
-    "planName": "Super Premium",
-    "currencyType": "$",
-    "planPrice": "30",
-    "subscribePlan": "mo",
+    "planName": "SUPER PREMIUM",
+    "currencyType": "So'm",
+    "planPrice": "399.000",
+    "subscribePlan": "oy",
     "planFeatures": [
       "Koreys tili (Hankuko + TOPIK 1, 2) to‘liq kurs",
       "IT Frontend + Backend darslari",
       "1:1 mentorlik (individual yondashuv)",
       "To‘liq agentlik xizmati (o‘qish, ish, viza)",
+      "Sertifikat + tavsiyanoma"
+    ]
+  },
+  {
+    "id": 2,
+    "planName": "PREMIUM PAKET",
+    "currencyType": "so'm",
+    "planPrice": "299.000",
+    "subscribePlan": "oy",
+    "planFeatures": [
+      "한국어 1–2 va TOPIK I darslari (face-to-face)",
+      " Chetga o'qish bo'yicha konsultatsiya + hujjat tekshirish",
       "Sertifikat + tavsiyanoma"
     ]
   }
