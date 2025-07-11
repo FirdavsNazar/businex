@@ -21,7 +21,7 @@ function Footer() {
                                 </Link>
 
                                 <Text>
-                                &copy; 2025 LEVELUP. All Rights Reserved.
+                                &copy; 2025 LevelUp Academy. All Rights Reserved.
                                 </Text>
                             </div>
                         </div>

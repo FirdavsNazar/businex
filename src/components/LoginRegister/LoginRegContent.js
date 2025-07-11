@@ -42,7 +42,7 @@ const LoginRegister = () => {
                     }
                 </div>   => icons */}  
                 <div className="copyright-content">
-                    <p> © CKTOOL {new Date().getFullYear()} All Right Reserved.</p>
+                    <p> © LevelUp Academy {new Date().getFullYear()} All Right Reserved.</p>
                 </div>
             </div>
         </Fragment>
