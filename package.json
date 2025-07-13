@@ -7,7 +7,7 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
-    "bootstrap": "^5.2.3",
+    "bootstrap": "^5.3.7",
     "fontawesome-4.7": "^4.7.0",
     "html-react-parser": "^5.2.3",
     "i18next": "^23.15.2",
