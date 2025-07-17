@@ -6,8 +6,7 @@
     "planPrice": "00",
     "subscribePlan": "oy",
     "planFeatures": [
-      "2 martalik bepul tanishtiruv darsi (Koreys tili yoki IT)",
-      "Yo'nalishga qarab bepul maslahat",
+      "2 martalik bepul tanishtiruv darsi",
       "Chetga o'qish yoki ishlash bo'yicha maslahat"
     ]
   },
@@ -15,13 +14,13 @@
     "id": 3,
     "planName": "SUPER PREMIUM",
     "currencyType": "So'm",
-    "planPrice": "399.000",
-    "subscribePlan": "oy",
+    "planPrice": "1099990",
+    "subscribePlan": "3 oy",
     "planFeatures": [
-      "Koreys tili (Hankuko + TOPIK 1, 2) to‘liq kurs",
-      "IT Frontend + Backend darslari",
+      "한국어 1–2 + TOPIK I & II",
       "1:1 mentorlik (individual yondashuv)",
-      "To‘liq agentlik xizmati (o‘qish, ish, viza)",
+      "Hafta oxiri qo‘shimcha mashg‘ulotlar",
+      " Chetga o'qish bo'yicha konsultatsiya + hujjat tekshirish",
       "Sertifikat + tavsiyanoma"
     ]
   },
@@ -29,11 +28,12 @@
     "id": 2,
     "planName": "PREMIUM PAKET",
     "currencyType": "so'm",
-    "planPrice": "299.000",
-    "subscribePlan": "oy",
+    "planPrice": "999.000",
+    "subscribePlan": "3 oy",
     "planFeatures": [
-      "한국어 1–2 va TOPIK I darslari (face-to-face)",
+      "한국어 1–2 daraja + TOPIK I",
       " Chetga o'qish bo'yicha konsultatsiya + hujjat tekshirish",
+      "Hafta oxiri qo‘shimcha mashg‘ulotlar",
       "Sertifikat + tavsiyanoma"
     ]
   }
