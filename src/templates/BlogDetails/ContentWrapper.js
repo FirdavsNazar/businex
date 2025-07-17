@@ -62,27 +62,27 @@ const BlogDetailsContentWrapper = ({post,sidebar}) => {
                             <div dangerouslySetInnerHTML={{__html: post.content}} />
                         </div>
 
-                            <div className="share-article text-center">
-                                        {/* <h6>Check Media</h6> */}
+                            {/* <div className="share-article text-center">
+                                        <h6>Check Media</h6>
                             <div className="member-social-icons justify-content-center">
-                            {/* <a className="pinterest" href="https://www.youtube.com/channel/UCH33OWbEUtKcmlvWeEsaPxg" 
+                            <a className="pinterest" href="https://www.youtube.com/channel/UCH33OWbEUtKcmlvWeEsaPxg" 
                                  target="_blank" 
                                     rel="noopener noreferrer">
                                         <i className="fa-brands fa-youtube"></i>  
-                            </a> */}
+                            </a>
 
-                                {/* <a className="facebook" href={`https://www.youtube.com/channel/UCH33OWbEUtKcmlvWeEsaPxg${window.location.href}`}>
+                                <a className="facebook" href={`https://www.youtube.com/channel/UCH33OWbEUtKcmlvWeEsaPxg${window.location.href}`}>
                                     <i className="fa fa-youtube"/>
-                                </a> */}
-                                {/* <a className="twitter" href={`https://twitter.com/home?status=${window.location.href}`}>
+                                </a>
+                                <a className="twitter" href={`https://twitter.com/home?status=${window.location.href}`}>
                                     <i className="fa fa-twitter"/>
                                 </a>
                                 <a className="reddit" href={`http://reddit.com/submit?url=${window.location.href}&title=${post.title}`}>
                                     <i className="fa fa-reddit"/>
-                                </a> */}
+                                </a>
             
                             </div>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </div>
